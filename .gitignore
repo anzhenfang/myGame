@@ -1,5 +1,11 @@
-build/
-bin/
-lib/
-msg_gen/
-srv_gen/
+cocos2d/
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win8.1-universal/
+proj.wp8-xaml/
+proj.win32/Debug.win32
+proj.win32/*.sdf
+.cocos-project.json
+*.txt
+
